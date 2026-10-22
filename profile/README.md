@@ -1,33 +1,32 @@
-# Language Technologies Lab 
+# Language Technologies Lab
 
-## About Us
+We build interpretable models of argumentation that adapt to specialised domains, from legal texts to multimodal data.
+The lab is a research group of the Department of Computer Science and Engineering of the University of Bologna, Italy.
+We teach natural language processing at the international [Master's Degree in Artificial Intelligence](https://corsi.unibo.it/2cycle/artificial-intelligence) and elsewhere.
 
-We are a research group of the Department of Computer Science and Engineering of the University of Bologna, Italy. 
-Our focus is Natural Language Processing research and application. 
-We contribute to several national and international research projects and offer a variety of NLP learning activities at the international [Master's Degree in Artificial Intelligence](https://corsi.unibo.it/2cycle/artificial-intelligence) and elsewhere.
+Our website is <https://nlp.unibo.it/>.
 
-## Useful Links
+## Research
 
-- [LT Lab Website](https://site.unibo.it/nlp/en) $\rightarrow$ The official LT Lab website.
-- [MARGOT](http://margot.disi.unibo.it/) $\rightarrow$ Our tool for mining arguments from text (online web demo).
-- [MAMKit](https://nlp-unibo.github.io/mamkit/) $\rightarrow$ Our toolkit for multimodal argument mining.
-- [CLAUDETTE](http://claudette.eui.eu/index.html) $\rightarrow$ Our tool for analysing consumer contracts and privacy policies.
+- [Argument Mining](https://nlp.unibo.it/research/am/)
+- [Legal Analytics](https://nlp.unibo.it/research/legal/)
+- [Speech Processing](https://nlp.unibo.it/research/speech/)
 
-## Team
+Our papers are listed on the [Publications](https://nlp.unibo.it/publication/) page, and our research projects on the [Projects](https://nlp.unibo.it/projects/) page.
 
-### 👤 Members 
-  * [Paolo Torroni](https://www.unibo.it/sitoweb/p.torroni/en) - Associate Professor, Head of the Language Technologies Lab.
-  * [Marco Lippi](http://personale.unimore.it/rubrica/dettaglio/marco.lippi) - Associate Professor.
-  * [Andrea Galassi](https://www.unibo.it/sitoweb/a.galassi/en) - Research Assistant.
-  * [Federico Ruggeri](https://www.unibo.it/sitoweb/federico.ruggeri6/en) - Post-doc.
-  * [Eleonora Mancini](https://www.unibo.it/sitoweb/e.mancini/en) - Post-doc.
-  * [Giulia Grundler](https://www.unibo.it/sitoweb/giulia.grundler2/en) - PhD Student.
-  * [Gianmarco Pappacoda](https://www.unibo.it/sitoweb/gianmarco.pappacoda/en) - PhD Student.
-  * [Nicolò Donati](https://www.unibo.it/sitoweb/n.donati/en) - PhD Student.
+## Tools
 
-### 👤 Past Members
-  * Rooshan Saleem Butt
-  * Luca Bolognini
-  * Francesco Antici
-  * Eleonora Misino
-  * Elena Palmieri
+- [MARGOT](http://margot.disi.unibo.it/) finds claims and evidence in text pasted into its web page.
+- [MAMKit](https://nlp.unibo.it/mamkit/) is a PyTorch toolkit for multimodal argument mining, which analyzes arguments using both text and audio.
+- [CLAUDETTE](http://claudette.eui.eu/) flags the clauses of online terms of service that are potentially unfair to consumers.
+- [Cinnamon](https://nlp-unibo.github.io/cinnamon/) keeps the parameters of an experiment in configurations, separate from the code of its components.
+
+## People
+
+The [People](https://nlp.unibo.it/people/) page lists our members, associate fellows, and former members.
+Students looking for a thesis can read the proposals on the [Work with us](https://nlp.unibo.it/work-with-us/) page.
+
+## This organization
+
+The source of our website is in [nlp-unibo.github.io](https://github.com/nlp-unibo/nlp-unibo.github.io).
+The other repositories hold the code and data of our papers and tools, and our course material.
